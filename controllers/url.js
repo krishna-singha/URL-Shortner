@@ -10,7 +10,7 @@ const handleGenerateShortUrl = async (req, res) => {
         res.status(400).json({ error: 'url is required' });
         return;
     }
-    const uid = new ShortUniqueId({ length: 10 });
+    const uid = new ShortUniqueId({ length: 6 });
     const shortID = uid.rnd();
 
     await URL.create({
