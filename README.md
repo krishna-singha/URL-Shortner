@@ -5,11 +5,11 @@
 <br>
 
 ## Table of Contents
-1. Introduction
-2. Features
-3. Setup
-4. Author
-5. License
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Setup](#setup)
+4. [Author](#author)
+5. [License](#license)
 
 <br>
 
